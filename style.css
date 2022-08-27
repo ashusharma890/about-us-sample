@@ -1,0 +1,163 @@
+.header{
+    background-color: #0AAAA0;
+    height: 2.5rem;
+}
+
+.social{
+    float: right;
+    padding-top: .5rem;
+    color: white;
+    margin: 0rem 15rem 0rem 0rem;
+    width: fit-content;
+    font-size: 14px;
+}
+.icn{
+    color: white;
+    margin-left: 1rem;
+}
+.navDiv{
+    margin: 0 auto;
+}
+.footer{
+    display: flex;
+}
+.details{
+    margin: 0rem auto;
+    color: white;
+    /* background-color: blue; */
+    text-align: center;
+    width: 80%;
+    padding-bottom: 2rem;
+    
+}
+.contact{
+    color: white;
+    margin: 0rem auto;
+    color: white;
+    /* background-color: red; */
+    text-align: left;
+    width: 80%;
+    padding-bottom: 2rem;
+}
+/* 
+.img-head{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: #0AAAA0;
+    opacity: 0.6;
+}
+
+.head-1,.head-2{
+    position:absolute;
+} */
+
+.demo-wrap {
+    overflow: hidden;
+    position: relative;
+    height: 110vh;
+    /* margin-top: 0.5rem;
+    margin-bottom: 0.5rem; */
+    background-color: #0AAAA0;
+    opacity: 0.6;
+  }
+  
+  .demo-bg {
+    /* opacity: 0.6; */
+    position: absolute;
+    left: 20rem;
+    top: 0;
+    width: 50%;
+    height: auto;
+  }
+  
+  .demo-content {
+    position: relative;
+    top: 17rem;
+    left: 28rem;
+    color:black;
+    font-weight: bolder;
+  }
+
+  .botm-head{
+    margin-left: 2.5rem;
+    font-weight: bold;
+  }
+
+  .info-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0AAAA0;
+    background-color: antiquewhite;
+    margin-top: 1rem;
+  }
+
+  .info{
+    text-align: center;
+    font-weight: bold;
+    background-color: antiquewhite;
+  }
+
+  .about{
+    font-weight: lighter;
+    margin-left:5rem;
+    margin-right:5rem;
+  }
+
+  .imgwrap{
+    overflow: hidden;
+    position: relative;
+    height: 80vh;
+    background-color: black;
+    opacity: 0.5;
+  }
+
+  .img{
+    position: absolute;
+    height: 80vh;
+  }
+
+  .img-txt-1{
+    position: absolute;
+    top: 15rem;
+    /* left: 5rem; */
+    color:black;
+    font-weight: bolder;
+    transform: translateY(-50%);
+    text-align: center;
+  }
+  .exp{
+    /* margin-left: -1rem; */
+    margin-top: 0.5rem;
+  }
+
+  .img-txt-2{
+    position: absolute;
+    top: 15rem;
+    left: 25rem;
+    color:black;
+    font-weight: bolder;
+    transform: translateY(-50%);
+    text-align: center;
+  }
+  .volntr{
+    /* margin-left: 0.5rem; */
+    margin-top: 0.5rem;
+  }
+
+  .img-txt-3{
+    position: absolute;
+    top: 15rem;
+    left: 50rem;
+    color:black;
+    font-weight: bolder;
+    transform: translateY(-50%);
+    text-align: center;
+  }
+  .help{
+    /* margin-left: -1rem; */
+    margin-top: 0.5rem;
+  }
+
+
